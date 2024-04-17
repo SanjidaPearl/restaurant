@@ -1,15 +1,15 @@
-#SpiceStory Restaurant
+# SpiceStory Restaurant
 A restaurant project using React.js,Reactstrap,Redux. 
-###Home
+### Home 
 ![image](https://github.com/SanjidaPearl/restaurant/assets/88578806/224a1c15-2d4b-45b6-b6fa-4ff3a6363522)
 
-###Menu
+### Menu
 ![image](https://github.com/SanjidaPearl/restaurant/assets/88578806/bc8581d7-65e5-4d31-a4e4-7f94dc7e224f)
 ![image](https://github.com/SanjidaPearl/restaurant/assets/88578806/8b79dd9c-ca8b-4f38-b765-da36b3bf9954)
 ![image](https://github.com/SanjidaPearl/restaurant/assets/88578806/b9af7a28-e5f6-409e-9275-cc62d3df9227)
-###About
+### About
 ![image](https://github.com/SanjidaPearl/restaurant/assets/88578806/8c5d45af-61bd-4b9c-a67a-5b87b1f5ecec)
-###Contact
+### Contact
 ![image](https://github.com/SanjidaPearl/restaurant/assets/88578806/5014c4bf-9aba-4f58-9ffe-8d255885995a)
 
 
