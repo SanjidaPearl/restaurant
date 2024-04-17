@@ -1,0 +1,39 @@
+.App {
+  text-align: center;
+}
+.footer {
+  background-color: #6dd3ea;
+  margin: 0px auto;
+  padding-top: 10px;
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+}
+
+.row-content {
+  margin: 0px auto;
+  padding: 50px 0px 50px 0px;
+  min-height: 400px;
+}
+.navbar-bigger {
+  height: 130px; /* Adjust the height as needed */
+  padding-top: 20px; /* Adjust the top padding as needed */
+  padding-bottom: 40px; /* Adjust the bottom padding as needed */
+}
+.navbar-brand-bigger {
+  padding-left: 100px;
+  font-size: 50px; /* Adjust the font size as needed */
+  font-weight: bold; /* Add font weight for emphasis */
+  color: #ffffff; /* Change the color as needed */
+}
+
+.nav-link-bigger {
+  font-size: 60px; /* Adjust the font size as needed */
+  color: #ffffff; /* Change the color as needed */
+}
+.card-container {
+  height:40px;
+  width: 30%; /* Adjust the width based on the number of cards you want in each row */
+  margin: 10px;
+  float: left; /* Ensure cards are displayed in a row */
+}
