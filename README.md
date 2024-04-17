@@ -9,7 +9,8 @@ Customers will be able to choose dishes and see the dishdetails.
 Customers will be able to see dishedetails and comments of other people about a dish.  
 ![image](https://github.com/SanjidaPearl/restaurant/assets/88578806/8b79dd9c-ca8b-4f38-b765-da36b3bf9954)
 Customers can also write comments and give rating to a dish.
-![image](https://github.com/SanjidaPearl/restaurant/assets/88578806/b9af7a28-e5f6-409e-9275-cc62d3df9227)
+![image](https://github.com/SanjidaPearl/restaurant/assets/88578806/362a9d34-1c03-41aa-b5d7-62d7eb0c8395)
+
 ### About
 ![image](https://github.com/SanjidaPearl/restaurant/assets/88578806/8c5d45af-61bd-4b9c-a67a-5b87b1f5ecec)
 ### Contact
