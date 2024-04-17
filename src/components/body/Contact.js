@@ -69,7 +69,7 @@ class Contact extends Component {
                                 <Col md={10}>
                                     <Input
                                         type="tel"
-                                        name="mobilenum"
+                                        name="telnum"
                                         value={this.state.telnum}
                                         placeholder="Mob. Number"
                                         onChange={this.handleInputChange}
